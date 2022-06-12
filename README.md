@@ -17,10 +17,13 @@
 ## Details (20%)
 - UI & Interactions
   - Have japanese mindset/ some details in mainflow
-  - > client decision is made in 3 secs/ first impression
-  - > client based
+    > client decision is made in 3 secs/ first impression
+    > client based
 - Animation & Effects
 - Content
   - Layout/ content/ 'e.g. business'
 - Features for execution
 - Invisible Features
+
+### BONUS MVP
+Give scores +20%, +10%, +5% as a `DEVELOPER`
