@@ -4,7 +4,7 @@
 - Main flow: present important flow: how ur flow accomplishes (goal) 
   - Maybe can briefly mention other flows
 
-## System & software desigmn (20%)
+## System & software design (20%)
 - System Architecture (UX):
   - Client? server? database: website standalone?
 - Software Architecture: Change-resilience
